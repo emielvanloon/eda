@@ -1,4 +1,4 @@
-name: "ES218"
+name: "Exploratory data analysis in R"
 output_dir: "."
 navbar:
   left:
